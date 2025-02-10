@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Let's Connect 
+### Let's Connect :coffee:
 <p align="center">
 	<a href="https://github.com/SemanurCelebi"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/semanurcelebi/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="mailto:semanur.celebi@outlook.com"><img src="https://img.icons8.com/bubbles/50/000000/outlook.png" alt="Outlook Mail"/></a>
 </p>
