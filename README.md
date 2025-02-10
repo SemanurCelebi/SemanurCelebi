@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![top](https://github.com/user-attachments/assets/9931171d-70c2-4d41-bf8e-2902029d3405)
+![Hey, I’M SEMANUR ÇELEBİ](https://github.com/user-attachments/assets/ac99c0e7-6cb1-4396-ac39-ba9de83680b6)
 
 <br>
 
