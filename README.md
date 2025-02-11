@@ -14,10 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Hey, I’M SEMANUR ÇELEBİ](https://github.com/user-attachments/assets/ac99c0e7-6cb1-4396-ac39-ba9de83680b6)
 
 <br>
-
 
 
 I'm [Semanur Çelebi](https://semanurcelebi.github.io/SemanurCelebi/), a Frontend Developer 👨🏻‍💻 from The Netherlands. I'm a creative problem solving enthusiast and a product girl 💅. I'm proud to say that I can succesfully center an element with css 💃. Beside I love playing volleyball 🏐 and board games 🎲.
