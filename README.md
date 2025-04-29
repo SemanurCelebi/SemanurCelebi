@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <br>
 
 
-I'm [Semanur Çelebi](https://semanurcelebi.github.io/SemanurCelebi/), a Frontend Developer 👨🏻‍💻 from The Netherlands. I'm a creative problem solving enthusiast and a product girl 💅. I'm proud to say that I can succesfully center an element with css 💃. Beside I love playing volleyball 🏐 and board games 🎲.
+I'm [Semanur Çelebi](https://semanurcelebi.github.io/SemanurCelebi/), a Frontend Developer 👨🏻‍💻 from The Netherlands. I'm a creative problem solving enthusiast and a product girl 💅. I'm proud to say that I can successfully center an element with css 💃. Beside I love playing volleyball 🏐 and board games 🎲.
 
 <br>
 
